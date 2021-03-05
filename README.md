@@ -1,2 +1,2 @@
 # sample-repository
-A sample repository for testing integrations
+A sample repository for testing integrations.
