@@ -1,2 +1,2 @@
 # Sample Repository
-A sample repository for testing GitHub integrations.
+A sample repository for testing integrations with GitHub.
