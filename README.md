@@ -9,4 +9,4 @@ This is the README as of 2021-08-18T16:06:00Z
 
 ## TODO
 
-* [ ] Write TODO list
+* [x] Write TODO list
