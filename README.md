@@ -10,4 +10,5 @@ This is the README as of 2023-08-22T19:30:00Z
 
 ## TODO
 
-* [x] Write TODO list
+- [x] Write TODO list
+- [ ] Add to TODO list
